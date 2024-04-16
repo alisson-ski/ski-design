@@ -1,0 +1,19 @@
+{
+  "name": "ski-design",
+  "version": "1.0.0",
+  "description": "SCSS Styles for my websites",
+  "main": "ski.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisson-ski/ski-design.git"
+  },
+  "author": "Alisson Lewinski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisson-ski/ski-design/issues"
+  },
+  "homepage": "https://github.com/alisson-ski/ski-design#readme"
+}
